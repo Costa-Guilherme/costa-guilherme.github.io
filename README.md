@@ -18,7 +18,7 @@ O projeto conta com três dashboards interativos, cada um focado em um público 
 * **Power BI:** Para a visualização interativa e a criação dos dashboards.
 * **DAX:** Para o cálculo de medidas e KPIs complexos.
 * **Modelagem de Dados:** Para a estruturação dos dados e criação de relações otimizadas.
-* **ETL (Power Query):** Para a extração e transformação dos dados.
+* **ETL:** Para a extração e transformação dos dados.
 
 ### Acesse o Projeto Completo
 
