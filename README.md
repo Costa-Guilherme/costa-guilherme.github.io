@@ -22,6 +22,6 @@ O projeto conta com três dashboards interativos, cada um focado em um público 
 
 ### Acesse o Projeto Completo
 
-Acesse o dashboard interativo [aqui](https://app.powerbi.com/view?r=eyJrIjoiOTZlNzhlNGMtZDczZC00MzNmLTk0MjAtNDk0Yjk0ZTkzNzhjIiwidCI6ImFlZDMxNzc5LTU4ZjctNDFjZC04MjY1LTI1MmI5ZTJkNjY1OCJ9).
+Acesse o dashboard interativo **[aqui](https://app.powerbi.com/view?r=eyJrIjoiOTZlNzhlNGMtZDczZC00MzNmLTk0MjAtNDk0Yjk0ZTkzNzhjIiwidCI6ImFlZDMxNzc5LTU4ZjctNDFjZC04MjY1LTI1MmI5ZTJkNjY1OCJ9)**.
 
-Para uma visão detalhada sobre a metodologia, os KPIs e as regras de negócio, acesse a documentação completa [aqui]([link-da-sua-documentacao.pdf]).
+Para uma visão detalhada sobre a metodologia, os KPIs e as regras de negócio, acesse a documentação completa **[aqui](Documentação - Projeto Xperiun Metalurgica.pdf)**.
